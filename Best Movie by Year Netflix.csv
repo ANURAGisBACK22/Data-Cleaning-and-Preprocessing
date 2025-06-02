@@ -1,0 +1,50 @@
+INDEX,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+1,White Christmas,1954,7.5,Romance,US
+2,The Guns of Navarone,1961,7.5,War,US
+3,My Fair Lady,1964,7.8,Drama,US
+4,Bonnie and Clyde,1967,7.7,Drama,US
+5,Dirty Harry,1971,7.7,Thriller,US
+6,The Exorcist,1973,8.1,horror,US
+7,Monty Python and the Holy Grail,1975,8.2,Comedy,GB
+8,Taxi Driver,1976,8.3,Crime,US
+9,Life of Brian,1979,8,Comedy,GB
+10,The Blue Lagoon,1980,5.8,Romance,US
+11,Annie,1982,6.6,Drama,US
+12,Christine,1983,6.7,horror,US
+13,Once Upon a Time in America,1984,8.3,Drama,US
+14,Stand by Me,1986,8.1,Drama,US
+15,Full Metal Jacket,1987,8.3,Drama,GB
+16,When Harry Met Sally...,1989,7.7,Romance,US
+17,Awakenings,1990,7.8,Drama,US
+18,My Girl,1991,6.9,Comedy,US
+19,A River Runs Through It,1992,7.2,Drama,US
+20,Menace II Society,1993,7.5,Drama,US
+21,Forrest Gump,1994,8.8,Drama,US
+22,Desperado,1995,7.1,Thriller,US
+23,Happy Gilmore,1996,7,Comedy,US
+24,Neon Genesis Evangelion: The End of Evangelion,1997,8,Scifi,JP
+25,Saving Private Ryan,1998,8.6,Drama,US
+26,"Girl, Interrupted",1999,7.3,Drama,US
+27,The Patriot,2000,7.2,Drama,DE
+28,Lagaan: Once Upon a Time in India,2001,8.1,Drama,IN
+29,Road to Perdition,2002,7.7,Thriller,US
+30,Big Fish,2003,8,Drama,US
+31,Swades,2004,8.1,Drama,IN
+32,Memoirs of a Geisha,2005,7.3,Drama,FR
+33,Rang De Basanti,2006,8.1,Comedy,IN
+34,Like Stars on Earth,2007,8.3,Drama,IN
+35,Ip Man,2008,8,Drama,HK
+36,3 Idiots,2009,8.4,Comedy,IN
+37,Inception,2010,8.8,Scifi,GB
+38,Warrior,2011,8.2,Drama,US
+39,Django Unchained,2012,8.4,Western,US
+40,Rush,2013,8.1,Drama,US
+41,Queen,2014,8.2,Drama,IN
+42,Drishyam,2015,8.2,Thriller,IN
+43,Dangal,2016,8.4,Action,IN
+44,Bāhubali 2: The Conclusion,2017,8.2,fantasy,IN
+45,Andhadhun,2018,8.2,Thriller,IN
+46,Dave Chappelle: Sticks & Stones,2019,8.4,Comedy,US
+47,David Attenborough: A Life on Our Planet,2020,9,Documantary,GB
+48,Bo Burnham: Inside,2021,8.7,Comedy,US
+49,The Tinder Swindler,2022,7.2,Crime,GB
